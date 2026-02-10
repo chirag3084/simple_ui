@@ -6,7 +6,7 @@ async function analyzeText() {
 
   try {
     const response = await fetch(
-      "https://chiragsurti10-to-do.hf.space/analyze",
+      "https://chiragsurti10-simple.hf.space/analyze",
       {
         method: "POST",
         headers: {
